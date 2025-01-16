@@ -32,8 +32,12 @@ github_username:  gwgannaway
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
-  - jekyll-include
- # - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Analytics
 analytics:
