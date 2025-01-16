@@ -14,6 +14,8 @@ title: Setup Post
 
 ## github pages guide
 
+Test update Jan 15, 2025
+
 I started with the guide here: <https://pages.github.com/>
 
 Here are some things that are important for each post...
